@@ -13,6 +13,7 @@
 		DB9438351F15EA55007FF390 /* GitSample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DB9438331F15EA55007FF390 /* GitSample.xcdatamodeld */; };
 		DB9438371F15EA55007FF390 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB9438361F15EA55007FF390 /* Assets.xcassets */; };
 		DB94383A1F15EA55007FF390 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB9438381F15EA55007FF390 /* LaunchScreen.storyboard */; };
+		DB9438421F1620A3007FF390 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB9438411F1620A3007FF390 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DB9438361F15EA55007FF390 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB9438391F15EA55007FF390 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB94383B1F15EA55007FF390 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB9438411F1620A3007FF390 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				DB9438381F15EA55007FF390 /* LaunchScreen.storyboard */,
 				DB94383B1F15EA55007FF390 /* Info.plist */,
 				DB9438331F15EA55007FF390 /* GitSample.xcdatamodeld */,
+				DB9438411F1620A3007FF390 /* DetailViewController.swift */,
 			);
 			path = GitSample;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				DB94382F1F15EA55007FF390 /* ViewController.swift in Sources */,
 				DB94382D1F15EA55007FF390 /* AppDelegate.swift in Sources */,
 				DB9438351F15EA55007FF390 /* GitSample.xcdatamodeld in Sources */,
+				DB9438421F1620A3007FF390 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
